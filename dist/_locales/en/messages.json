@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "gh pagination divider",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "add a dividing line to separate new loaded content in github activity page",
+    "description": "The description of the application"
+  }
+}
